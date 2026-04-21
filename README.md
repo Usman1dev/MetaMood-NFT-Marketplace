@@ -62,7 +62,7 @@ A web-based NFT marketplace built with FastAPI and SQL Server.
 
 **Muhammad Usman Khan**<br>
   GitHub: https://github.com/Usman1dev<br>
-  LinkedIn: https://www.linkedin.com/in/usman0310
+  LinkedIn: https://www.linkedin.com/in/usman0310<br>
 **Daniyal Salman**<br>
   GitHub: https://github.com/daniyalsalman<br>  
 **Muhammad Atif**<br>
